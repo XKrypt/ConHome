@@ -1,0 +1,16 @@
+C:\Users\rapha\Documents\GitHub\ConHome\ClientServerTest\bin\Debug\net5.0\ClientServerTest.exe
+C:\Users\rapha\Documents\GitHub\ConHome\ClientServerTest\bin\Debug\net5.0\ClientServerTest.deps.json
+C:\Users\rapha\Documents\GitHub\ConHome\ClientServerTest\bin\Debug\net5.0\ClientServerTest.runtimeconfig.json
+C:\Users\rapha\Documents\GitHub\ConHome\ClientServerTest\bin\Debug\net5.0\ClientServerTest.runtimeconfig.dev.json
+C:\Users\rapha\Documents\GitHub\ConHome\ClientServerTest\bin\Debug\net5.0\ClientServerTest.dll
+C:\Users\rapha\Documents\GitHub\ConHome\ClientServerTest\bin\Debug\net5.0\ref\ClientServerTest.dll
+C:\Users\rapha\Documents\GitHub\ConHome\ClientServerTest\bin\Debug\net5.0\ClientServerTest.pdb
+C:\Users\rapha\Documents\GitHub\ConHome\ClientServerTest\obj\Debug\net5.0\ClientServerTest.csproj.AssemblyReference.cache
+C:\Users\rapha\Documents\GitHub\ConHome\ClientServerTest\obj\Debug\net5.0\ClientServerTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Documents\GitHub\ConHome\ClientServerTest\obj\Debug\net5.0\ClientServerTest.AssemblyInfoInputs.cache
+C:\Users\rapha\Documents\GitHub\ConHome\ClientServerTest\obj\Debug\net5.0\ClientServerTest.AssemblyInfo.cs
+C:\Users\rapha\Documents\GitHub\ConHome\ClientServerTest\obj\Debug\net5.0\ClientServerTest.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Documents\GitHub\ConHome\ClientServerTest\obj\Debug\net5.0\ClientServerTest.dll
+C:\Users\rapha\Documents\GitHub\ConHome\ClientServerTest\obj\Debug\net5.0\ref\ClientServerTest.dll
+C:\Users\rapha\Documents\GitHub\ConHome\ClientServerTest\obj\Debug\net5.0\ClientServerTest.pdb
+C:\Users\rapha\Documents\GitHub\ConHome\ClientServerTest\obj\Debug\net5.0\ClientServerTest.genruntimeconfig.cache

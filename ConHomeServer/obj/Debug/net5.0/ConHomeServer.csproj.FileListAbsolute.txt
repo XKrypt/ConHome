@@ -1,0 +1,16 @@
+C:\Users\rapha\Documents\GitHub\ConHome\ConHomeServer\bin\Debug\net5.0\ConHomeServer.exe
+C:\Users\rapha\Documents\GitHub\ConHome\ConHomeServer\bin\Debug\net5.0\ConHomeServer.deps.json
+C:\Users\rapha\Documents\GitHub\ConHome\ConHomeServer\bin\Debug\net5.0\ConHomeServer.runtimeconfig.json
+C:\Users\rapha\Documents\GitHub\ConHome\ConHomeServer\bin\Debug\net5.0\ConHomeServer.runtimeconfig.dev.json
+C:\Users\rapha\Documents\GitHub\ConHome\ConHomeServer\bin\Debug\net5.0\ConHomeServer.dll
+C:\Users\rapha\Documents\GitHub\ConHome\ConHomeServer\bin\Debug\net5.0\ref\ConHomeServer.dll
+C:\Users\rapha\Documents\GitHub\ConHome\ConHomeServer\bin\Debug\net5.0\ConHomeServer.pdb
+C:\Users\rapha\Documents\GitHub\ConHome\ConHomeServer\obj\Debug\net5.0\ConHomeServer.csproj.AssemblyReference.cache
+C:\Users\rapha\Documents\GitHub\ConHome\ConHomeServer\obj\Debug\net5.0\ConHomeServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Documents\GitHub\ConHome\ConHomeServer\obj\Debug\net5.0\ConHomeServer.AssemblyInfoInputs.cache
+C:\Users\rapha\Documents\GitHub\ConHome\ConHomeServer\obj\Debug\net5.0\ConHomeServer.AssemblyInfo.cs
+C:\Users\rapha\Documents\GitHub\ConHome\ConHomeServer\obj\Debug\net5.0\ConHomeServer.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Documents\GitHub\ConHome\ConHomeServer\obj\Debug\net5.0\ConHomeServer.dll
+C:\Users\rapha\Documents\GitHub\ConHome\ConHomeServer\obj\Debug\net5.0\ref\ConHomeServer.dll
+C:\Users\rapha\Documents\GitHub\ConHome\ConHomeServer\obj\Debug\net5.0\ConHomeServer.pdb
+C:\Users\rapha\Documents\GitHub\ConHome\ConHomeServer\obj\Debug\net5.0\ConHomeServer.genruntimeconfig.cache
